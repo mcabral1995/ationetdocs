@@ -257,5 +257,34 @@
 <tr><td>41001</td>	<td>Driv money exceeded</td><td>Driver money exceeded</td><td></td></tr>
 <tr><td>41002</td>	<td>Site money exceeded</td><td>Site money exceeded</td><td></td></tr>
 <tr><td>41003</td>	<td>Fleet money exceeded</td><td>Fleet money exceeded</td><td></td></tr>
+<tr><td>41100</td>	<td>Vehi money exceeded fuel</td><td>Vehicle money exceeded for fuel</td><td></td></tr>
+<tr><td>41101</td>	<td>Driv money exceeded fuel</td><td>Driver money exceeded for fuel</td><td></td></tr>	
+<tr><td>41102</td>	<td>Sit money exceeded fuel</td><td>Site money exceeded for fuel</td><td></td></tr>	
+<tr><td>41103</td>	<td>Fleet money exceeded fuel</td><td>Fleet money exceeded for fuel</td><td></td></tr>	
+<tr><td>41104</td>	<td>Veh qty fuel exceeded</td><td>Vehicle quantity fuel exceeded</td><td></td></tr>	
+<tr><td>41105</td>	<td>Driv qty fuel exceeded</td><td>Driver quantity fuel exceeded</td><td></td></tr>	
+<tr><td>41106</td>	<td>Sit qty fuel exceeded</td><td>Site quantity fuel exceeded</td><td></td></tr>	
+<tr><td>41107</td>	<td>Fleet qty fuel exceeded</td><td>Fleet quantity fuel exceeded</td><td></td></tr>	
+<tr><td>41108</td>	<td>Veh trx fuel exceeded</td><td>Vehicle transaction fuel exceeded</td><td></td></tr>	
+<tr><td>41109</td>	<td>Dri trx fuel exceeded</td><td>Driver transaction fuel exceeded</td><td></td></tr>
+<tr><td>41110</td>	<td>Sit trx fuel exceeded</td><td>Site transaction fuel exceeded</td><td></td></tr>
+<tr><td>41111</td>	<td>Fleet trx fuel exceeded</td><td>Fleet transaction fuel exceeded</td><td></td></tr>	
+<tr><td>21200</td>	<td>Daily Quotas not set</td><td>Daily Quotas not set</td><td></td></tr>
+<tr><td>41200</td>	<td>Veh money daily excedeed</td><td>Vehicle money daily quota excedeed</td><td></td></tr>
+<tr><td>41201</td>	<td>Driv money daily excedeed</td><td>Driver money daily quota excedeed</td><td></td></tr>
+<tr><td>41202</td>	<td>Fuel money daily excedeed</td><td>Fuel money daily quota excedeed</td><td></td></tr>
+<tr><td>41203</td>	<td>Site money daily excedeed</td><td>Site money daily quota excedeed</td><td></td></tr>
+<tr><td>41204</td>	<td>Fleet money daily excedeed</td><td>Fleet money daily quota excedeed</td><td></td></tr>
+<tr><td>41205</td>	<td>Veh qty daily excedeed</td><td>Veh quantity daily quota excedeed</td><td></td></tr>
+<tr><td>41206</td>	<td>Driv qty daily excedeed</td><td>Driv quantity daily quota excedeed</td><td></td></tr>
+<tr><td>41207</td>	<td>Fuel qty daily excedeed</td><td>Fuel quantity daily quota excedeed</td><td></td></tr>
+<tr><td>41208</td>	<td>Site qty daily excedeed</td><td>Site quantity daily quota excedeed</td><td></td></tr>
+<tr><td>41209</td>	<td>Fleet qty daily excedeed</td><td>Fleet quantity daily quota excedeed</td><td></td></tr>
+<tr><td>41210</td>	<td>Veh tran daily excedeed</td><td>Vehicle transactions daily quota excedeed</td><td></td></tr>
+<tr><td>41211</td>	<td>Driv tran daily excedeed</td><td>Driv transactions daily quota excedeed</td><td></td></tr>
+<tr><td>41212</td>	<td>Prod tran daily excedeed</td><td>Prod transactions daily quota excedeed</td><td></td></tr>
+<tr><td>41213</td>	<td>Site tran daily excedeed</td><td>Site transactions daily quota excedeed</td><td></td></tr>
+<tr><td>41214</td>	<td>Fleet tran daily excedeed</td><td>Fleet transactions daily quota excedeed</td><td></td></tr>	
 <tr><td>50000</td>	<td>App Error</td><td>Application Error</td><td>Internal Server Error</td></tr>
+<tr><td>50001</td>	<td>Not available in offline</td><td>Not available in offline</td><td></td></tr>
 </table>
